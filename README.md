@@ -90,8 +90,14 @@ print(prediction)
 print(f"Predicted valeue: {pre}")
 ```
 ## Output:
-![linear regression using gradient descent](sam.png)
+### Read Data
+![image](https://github.com/SanjayRagavendar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/91368803/81f25156-61b0-4d4b-8431-3d8d455dfb49)
 
+### Scaling
+![image](https://github.com/SanjayRagavendar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/91368803/52edcd33-38cf-4dc5-a968-64d44b2a014b)
+
+### Predicting
+![image](https://github.com/SanjayRagavendar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/91368803/3f81e9f8-c669-466f-bc3c-ce4f7c2e053b)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
