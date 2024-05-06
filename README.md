@@ -90,14 +90,11 @@ print(prediction)
 print(f"Predicted valeue: {pre}")
 ```
 ## Output:
-### Read Data
-![image](https://github.com/SanjayRagavendar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/91368803/81f25156-61b0-4d4b-8431-3d8d455dfb49)
+![309771647-475640c7-9efb-4ca2-882a-aa52906026bd](https://github.com/SanjayRagavendar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/91368803/87c69191-1711-4ffb-8ecf-4ddfe15b6911)
 
-### Scaling
-![image](https://github.com/SanjayRagavendar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/91368803/52edcd33-38cf-4dc5-a968-64d44b2a014b)
+![309771715-c81d7ffe-da92-491d-912d-9768469b2f81](https://github.com/SanjayRagavendar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/91368803/332b440e-b31f-44df-80d9-4ae6131919ab)
 
-### Predicting
-![image](https://github.com/SanjayRagavendar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/91368803/3f81e9f8-c669-466f-bc3c-ce4f7c2e053b)
+![326158797-30676fc4-7c69-4dd7-b9c1-a7ecbf69769b](https://github.com/SanjayRagavendar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/91368803/1e343958-25bf-4735-9ced-f088b6d7b11e)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
