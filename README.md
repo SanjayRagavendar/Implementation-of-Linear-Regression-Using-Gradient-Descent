@@ -94,13 +94,13 @@ print(f"Predicted valeue: {pre}")
 ### X values
 ![1ML](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/9bf60fa0-af77-42cf-a31d-ea158d181abb)
 
-### y values
+### Y values
 ![2ML](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/3be61adc-d7e3-4d8c-97b4-3e0ac9547133)
 
-### X Scaled values
+### X Scaled values 
 ![3ML](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/c0b84bd5-3d9e-45f2-8f24-7908acecff74)
 
-### y Scaled values
+### Y Scaled values
 ![4ML](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/9d167518-03cc-4e2c-b206-93ac4cf31ba6)
 
 ### Predicted value
